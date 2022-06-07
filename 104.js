@@ -1,0 +1,21 @@
+let name = "Danjuma";
+let age = 21;
+let gender = "male";
+let nationality = "Nigerian";
+let stateofOrigin = "Edo";
+let ethnicity = "Etsakho";
+let bodytype = "endomorph";
+let complexion = "Olive";
+let height = "5'10";
+let eyecolor ="brown";
+let haircolor = "black";
+let occupation = "student";
+let shipstat = "single";
+let favcolor = "black";
+let favfood = "rice";
+let fampost ="last";
+let school ="uniben";
+let major = "agric";
+let level = 300;
+let  stateofMind = "stressed";
+
